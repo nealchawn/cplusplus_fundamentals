@@ -1,0 +1,7 @@
+NES
+Tetris
+WebSite2
+*.exe
+bin/
+.vs/
+debug/
